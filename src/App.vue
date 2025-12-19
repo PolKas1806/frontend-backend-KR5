@@ -20,8 +20,8 @@ import { RouterLink, RouterView } from 'vue-router'
 /* Базовые стили */
 :root {
   --primary: #6366f1;
-  --bg: #f8fafc;
-  --text: #1e293b;
+  --bg: #b90e53;
+  --text: #ffb300;
 }
 
 body {

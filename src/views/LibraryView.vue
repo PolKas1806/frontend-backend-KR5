@@ -134,7 +134,7 @@ const loadPalette = (palette) => {
 .search-input {
   padding: 0.6rem 1rem;
   border-radius: 20px;
-  border: 1px solid #ddd;
+  border: 1px solid #151e83;
   width: 250px;
   font-size: 0.95rem;
   outline: none;
@@ -149,7 +149,7 @@ const loadPalette = (palette) => {
   text-align: center;
   padding: 4rem;
   color: #666;
-  background: white;
+  background: rgb(0, 0, 0);
   border-radius: 12px;
 }
 
